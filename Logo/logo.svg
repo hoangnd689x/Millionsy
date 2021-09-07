@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="15.748in" height="15.748in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 19596 19596"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#373435;stroke-width:207.393}
+    .str0 {stroke:#373435;stroke-width:207.393}
+    .str2 {stroke:#373435;stroke-width:276.524}
+    .fil2 {fill:none}
+    .fil3 {fill:#FEFEFE}
+    .fil4 {fill:#373435}
+    .fil1 {fill:#FEBF2C}
+    .fil0 {fill:#17F0FF}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="19596" height="19596" rx="490" ry="490"/>
+  <g id="_2171082231632">
+   <path class="fil1 str0" d="M10491 9349l5825 3163c473,257 511,1216 0,1386l-5825 1936c-511,170 -874,170 -1386,0l-5824 -1936c-512,-170 -474,-1129 0,-1386l5824 -3163c474,-257 912,-257 1386,0z"/>
+   <polyline class="fil2 str1" points="2913,13194 9805,13194 16685,13194 "/>
+  </g>
+  <g id="_2171082230704">
+   <circle class="fil3 str0" cx="4439" cy="7456" r="2144"/>
+   <circle class="fil4" cx="4439" cy="7456" r="460"/>
+   <line class="fil2 str2" x1="4439" y1="5313" x2="4439" y2= "4634" />
+   <line class="fil2 str2" x1="3133" y1="5757" x2="2698" y2= "5238" />
+   <line class="fil2 str2" x1="5759" y1="5767" x2="6220" y2= "5217" />
+  </g>
+  <g id="_2171082234096">
+   <circle class="fil3 str0" cx="15157" cy="7456" r="2144"/>
+   <circle class="fil4" cx="15157" cy="7456" r="460"/>
+   <line class="fil2 str2" x1="15157" y1="5313" x2="15157" y2= "4634" />
+   <line class="fil2 str2" x1="13851" y1="5757" x2="13416" y2= "5238" />
+   <line class="fil2 str2" x1="16477" y1="5767" x2="16938" y2= "5217" />
+  </g>
+  <rect class="fil2" width="19596" height="19596" rx="490" ry="490"/>
+ </g>
+</svg>
